@@ -60,10 +60,7 @@ Loan_Eligibility_Prediction/
 
 ## Models Used
 
-* Logistic Regression
-* Decision Tree
-* Random Forest
-* Support Vector Machine (optional)
+ Support Vector Classifier (SVC)
 
 ## License
 
